@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TaylorOno
-- 👀 I’m passionate about fighting against the Agile Industrial Complex (SAFe)
-- 💞️ I’m looking to helping business move away from Evil Corp (Oracle)
+- 👀 I’m passionate about fighting against the Agile Industrial Complex
+- 💞️ I’m looking to helping business move away from Evil Corp
